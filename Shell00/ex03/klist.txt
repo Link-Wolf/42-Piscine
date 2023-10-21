@@ -1,0 +1,5 @@
+Credentials cache: API:04C9903E-8E12-4FC3-8720-647016172FD6
+        Principal: xxxxxxx@42MULHOUSE.FR
+
+  Issued                Expires             Flags    Principal
+Nov  8 12:09:24 2021  Nov  8 22:09:19 2021  FPIA   krbtgt/42MULHOUSE.FR@42MULHOUSE.FR

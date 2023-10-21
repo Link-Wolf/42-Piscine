@@ -1,0 +1,29 @@
+
+determiner plus gros carre
+	max nb col / line
+	check coins sinon reduire
+
+
+Order corners
+	0 	1
+	2	3
+
+Axis :
+		-x
+		^
+		|
+ -y <---o---> +y
+ 		|
+		v
+		+x
+
+Map 2D(col, row) to 1D(n)
+	n = col + row * width
+Map 1D to 2D
+	col = n % width
+	row = n / width
+
+Fill TAB
+	0 : vide
+	1 : obstacle
+	42: nous
